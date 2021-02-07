@@ -1,7 +1,7 @@
 # action.yml
-name: 'Python wheels manylinux build'
+name: 'Python wheels manylinux stable build'
 author: 'Ralf Gabriels'
-description: 'Build manylinux wheels for a (Cython) Python package'
+description: 'Build stable manylinux wheels for a C++ Library Python package'
 inputs:
   python-versions:
     description: 'Python versions to target, space-separated'
